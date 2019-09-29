@@ -76,6 +76,8 @@ If option 6 is selected, the program will quit running.
 
 #### 0.2 Class Diagram
 
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2006242/sp/200624200/embedIframeJs/uiconf_id/32026192/partner_id/2006242?iframeembed=true&playerId=kaltura_player&entry_id=0_udd05fr6&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[watermark.watermarkPath]=https://kms-a.akamaihd.net/dc-0/5.90.20/public/img/kalturalogo_watermark.png&amp;flashvars[playPauseBtn.plugin]=false&amp;flashvars[topBarContainer.plugin]=false&amp;flashvars[currentTimeLabel.plugin]=false&amp;flashvars[durationLabel.plugin]=false&amp;flashvars[scrubber.plugin]=false&amp;flashvars[volumeControl.plugin]=false&amp;flashvars[fullScreenBtn.plugin]=true&amp;flashvars[controlBarContainer.plugin]=true&amp;flashvars[largePlayBtn.plugin]=false&amp;flashvars[loadingSpinner.plugin]=false&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=0_ldh6nph1" width="500" height="281" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups" frameborder="0" title="Kaltura Player"></iframe>
+
 ![Class Diagram](UMLV1.png)
 
 `ref`: based on the article https://www.futurelearn.com/courses/sit771-fl3/6/steps/543293)
