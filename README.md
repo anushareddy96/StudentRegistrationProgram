@@ -76,7 +76,7 @@ If option 6 is selected, the program will quit running.
 
 #### 0.2 Class Diagram
 
-![Class Diagram](UMLV1.png)
+![Class Diagram](images/UMLV1.png)
 
 `ref`: based on the article https://www.futurelearn.com/courses/sit771-fl3/6/steps/543293)
 
@@ -294,7 +294,7 @@ public override void PrintSummary() {
 ```
 
 ### 5. IBaseManager.cs
-##### This class provides a definition of enrol manager interface members that an inherited class can use to implement them (`ref`: based on the article https://www.futurelearn.com/courses/sit771-fl4/6/steps/543306)
+#### This class provides a definition of enrol manager interface members that an inherited class can use to implement them (`ref`: based on the article https://www.futurelearn.com/courses/sit771-fl4/6/steps/543306)
 - This public class named `IBaseManager`
 
 ##### 5.1 Define required interface members
@@ -311,7 +311,7 @@ public interface IBaseManager
 ```
 
 ### 6. IBaseModel.cs
-##### This class provides a definition of interface members for e.g. database model creation, that an inherited class can use to implement them (`ref`: based on the article https://www.futurelearn.com/courses/sit771-fl4/6/steps/543306)
+#### This class provides a definition of interface members for e.g. database model creation, that an inherited class can use to implement them (`ref`: based on the article https://www.futurelearn.com/courses/sit771-fl4/6/steps/543306)
 - This public class named `IBaseModel`
 
 ##### 6.1 Define required interface members
