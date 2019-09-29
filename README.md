@@ -76,7 +76,7 @@ If option 6 is selected, the program will quit running.
 
 #### 0.2 Class Diagram
 
-![Class Diagram](<a></a>https://video.deakin.edu.au/media/t/0_udd05fr6)
+![Class Diagram](UMLV1.png)
 
 `ref`: based on the article https://www.futurelearn.com/courses/sit771-fl3/6/steps/543293)
 
